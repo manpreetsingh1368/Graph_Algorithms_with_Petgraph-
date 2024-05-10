@@ -1,0 +1,7 @@
+[package]
+name = "Graph_Algorithms_with_Petgraph"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+petgraph = "0.6.5"
